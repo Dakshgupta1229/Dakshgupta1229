@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Daksh Gupta</h1>
 
-<!--
-**Dakshgupta1229/Dakshgupta1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Scientist | AI & ML Enthusiast | Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+%7C+Machine+Learning;Building+AI+Projects;Always+Learning+New+Technologies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Science, Data Analytics and Deep Learning
+
+🚀 Building Real-World AI Projects
+
+🌱 Currently learning LLMs, RAG and MLOps
+
+💬 Ask me about Python, Machine Learning, React, Node.js and SQL
+
+---
+
+## 🛠️ Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,sql" />
+</p>
+
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,tensorflow,pytorch,mysql,postgres,docker,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakshgupta1229&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshgupta1229&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dakshgupta1229&theme=tokyonight"/>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
