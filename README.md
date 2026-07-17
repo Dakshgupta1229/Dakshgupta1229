@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Dakshgupta.jpg" width="180" style="border-radius:50%;" alt="Daksh Gupta"/>
+</p>
 <h1 align="center">Hi 👋, I'm Daksh Gupta</h1>
 
 <h3 align="center">
