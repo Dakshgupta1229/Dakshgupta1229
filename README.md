@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daksh Gupta</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | AI & ML Enthusiast | Full Stack Developer
+AI Engineer | Data Scientist | Full Stack Developer
 </h3>
 
 <p align="center">
