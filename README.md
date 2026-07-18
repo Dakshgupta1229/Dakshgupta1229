@@ -13,5 +13,5 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dakshgupta1229&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dakshgupta1229&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
