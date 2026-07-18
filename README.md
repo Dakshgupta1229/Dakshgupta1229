@@ -183,6 +183,13 @@ Python • Scikit-learn • Pandas
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
