@@ -172,23 +172,44 @@ Python • Scikit-learn • Pandas
 </table>
 
 ---
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshgupta1229&theme=tokyo-night&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dakshgupta1229&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshgupta1229&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dakshgupta1229&theme=tokyonight&hide_border=true" width="70%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshgupta1229&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
+
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
 </p>
 
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 ---
 
 ---
