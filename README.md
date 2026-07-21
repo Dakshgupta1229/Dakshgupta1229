@@ -18,7 +18,7 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Dakshgupta1229">
@@ -43,14 +43,14 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 </p>
 
 <p align="center">
-  📍 India &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎓 B.Tech CSE Student &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 AI & Machine Learning Enthusiast
+📍 India &nbsp;&nbsp;|&nbsp;&nbsp;
+🎓 B.Tech CSE Student &nbsp;&nbsp;|&nbsp;&nbsp;
+🤖 AI & Machine Learning Enthusiast
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -58,62 +58,64 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
 - 🌱 Currently learning **Generative AI, LLMs, LangGraph, RAG & MLOps**
 - 💻 Building real-world AI applications using **Python, React, Node.js & FastAPI**
-- 🚀 Interested in AI Agents, Full Stack Development & Cloud Technologies
-- 📚 Solving Data Structures & Algorithms problems regularly
+- 🚀 Interested in **AI Agents, Full Stack Development & Cloud Technologies**
+- 📚 Solving **Data Structures & Algorithms** problems regularly
 - 🎯 Goal: Become an **AI Engineer** and build impactful AI products
 - ⚡ Fun Fact: I enjoy turning innovative ideas into real-world AI solutions.
 
-  ---
+---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,sql&perline=8" />
 </p>
 
-### ⚛️ Frontend Development
+## ⚛️ Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap&perline=6" />
 </p>
 
-### 🚀 Backend Development
+## 🚀 Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" />
 </p>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&perline=4" />
 </p>
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=4" />
 </p>
 
-### 🛠️ Tools & IDEs
+## 🛠️ Tools & IDEs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,npm&perline=3" />
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🩺 MedAssist AI
@@ -136,12 +138,15 @@ An AI-powered financial analytics platform for stock market insights and investm
 **Tech Stack:**  
 React • Node.js • Express • PostgreSQL
 
-🔗 **GitHub:** *(https://github.com/Dakshgupta1229/FinSight)*
+🔗 **GitHub:**  
+https://github.com/Dakshgupta1229/FinSight
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### ☕ Coffee Shop Sales Analysis
@@ -151,7 +156,8 @@ Sales dashboard and business insights using Python, Excel, and data visualizatio
 **Tech Stack:**  
 Python • Pandas • Matplotlib • Excel
 
-🔗 **GitHub:** *(https://github.com/Dakshgupta1229/Coffee_Shop_Sales_Dashboard)*
+🔗 **GitHub:**  
+https://github.com/Dakshgupta1229/Coffee_Shop_Sales_Dashboard
 
 </td>
 
@@ -164,35 +170,24 @@ Machine Learning project for predicting airline passenger satisfaction.
 **Tech Stack:**  
 Python • Scikit-learn • Pandas
 
-🔗 **GitHub:** *(https://github.com/Dakshgupta1229/Airline-Satisfaction-Analysis)*
+🔗 **GitHub:**  
+https://github.com/Dakshgupta1229/Airline-Satisfaction-Analysis
 
 </td>
-</tr>
 
+</tr>
 </table>
 
----
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dakshgupta1229&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="49%"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshgupta1229&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
+  <img src="https://streak-stats.demolab.com?user=Dakshgupta1229&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshgupta1229&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshgupta1229&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -200,19 +195,9 @@ Python • Scikit-learn • Pandas
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
----
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
-
-
