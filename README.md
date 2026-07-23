@@ -120,12 +120,15 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 
 ### 🩺 MedAssist AI
 
-AI-powered disease prediction system using Machine Learning and an intelligent chatbot interface.
+AI-powered healthcare platform for patient management, OCR-based medical report analysis, RAG-enabled AI chatbot, and Machine Learning-based disease prediction.
+
+Tech Stack:
 
 **Tech Stack:**  
-Python • Flask • Scikit-learn • Pandas • NumPy
+FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • JWT • OCR • RAG • OpenAI • Scikit-learn • Pandas • NumPy • Tailwind CSS • Docker • Render • Vercel
 
-🔗 **GitHub:** *(Add Repository Link)*
+🔗 **GitHub:**
+https://github.com/Dakshgupta1229/mediassist-ai
 
 </td>
 
