@@ -125,7 +125,7 @@ AI-powered healthcare platform for patient management, OCR-based medical report 
 Tech Stack:
 
 **Tech Stack:**  
-FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • JWT • OCR • RAG • OpenAI • Scikit-learn • Pandas • NumPy • Tailwind CSS • Docker • Render • Vercel
+FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • JWT • OCR • RAG • OpenAI • Scikit-learn • Pandas • NumPy • Tailwind CSS • ML
 
 🔗 **GitHub:**
 https://github.com/Dakshgupta1229/mediassist-ai
